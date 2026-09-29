@@ -1,0 +1,113 @@
+ARX INTERIOR -- DIE TEXTE
+=========================
+Alle gesprochenen Texte des Stuecks "Arx Interior" (Release R08),
+mit Uebersetzung und Quelle. Thema: die Vorbereitung -- was der
+Einzelne tut, wenn die Abwehr gescheitert ist. Die Antworten
+stammen von denen, die im Untergang tatsaechlich gelebt haben.
+
+
+1. DUCUNT (vocal_ducunt)
+---------------------------------------------------------------
+
+  Ducunt volentem fata, nolentem trahunt.
+
+  (Den Willigen fuehrt das Schicksal,
+  den Unwilligen schleift es.)
+
+Quelle: Seneca, Epistulae morales 107,11 (gemeinfrei) --
+Senecas Uebersetzung eines Kleanthes-Gebets.
+
+
+2. FUNDAMENTA IACIMUS (vocal_fundamenta_iacimus)
+---------------------------------------------------------------
+
+  Fundamenta iacimus.    (Wir legen die Fundamente.)
+
+Originalformel von Johann van Staal; "fundamenta iacere"
+ist die klassische Wendung (u.a. Cicero).
+
+
+3. LAPIS SUPER LAPIDEM (vocal_lapis)
+---------------------------------------------------------------
+
+  Lapis super lapidem.    (Stein auf Stein.)
+
+Originalformel von Johann van Staal -- als bewusste
+Umkehrung: Die bekannteste Fassung dieser Worte ist eine
+Zerstoerungsprophezeiung ("non relinquetur lapis super
+lapidem" -- kein Stein wird auf dem anderen bleiben,
+Mt 24,2).
+
+
+4. MURUS (vocal_murus, vocal_murus_kurz)
+---------------------------------------------------------------
+
+  Philosophia circumdanda est, inexpugnabilis murus,
+  quem fortuna multis machinis lassata non transit.
+
+  (Mit Philosophie muss man sich umbauen -- eine
+  uneinnehmbare Mauer, die Fortuna, von vielen
+  Belagerungsmaschinen ermuedet, nicht ueberwindet.)
+
+  Kurzform: Murus inexpugnabilis! (Uneinnehmbare Mauer!)
+
+Quelle: Seneca, Epistulae morales 82,5 (gemeinfrei).
+
+
+5. MAGNOS VIROS (vocal_magnos_viros)
+---------------------------------------------------------------
+
+  Posse etiam sub malis principibus magnos viros esse.
+
+  (Dass es auch unter schlechten Herrschern
+  grosse Menschen geben kann.)
+
+Quelle: Tacitus, Agricola 42 (gemeinfrei)
+
+
+6. DUX ATQUE IMPERATOR (vocal_dux_atque_imperator)
+---------------------------------------------------------------
+
+  Dux atque imperator vitae mortalium animus est.
+
+  (Fuehrer und Befehlshaber des Lebens der
+  Sterblichen ist der Geist.)
+
+Quelle: Sallust, Bellum Iugurthinum 1,3 (gemeinfrei)
+
+
+7. PORTA PATET (vocal_porta_patet)
+---------------------------------------------------------------
+
+  Porta patet.    (Die Tuer steht offen.)
+
+Originalformel von Johann van Staal
+
+
+8. EXEAMUS (vocal_exeamus)
+---------------------------------------------------------------
+
+  Exeamus.    (Lasst uns hinausgehen.)
+
+Originalformel von Johann van Staal.
+
+
+9. SEMEN (vocal_semen, vocal_semen_kurz)
+---------------------------------------------------------------
+
+  Quod descripsimus, non peribit.
+  Quod servavimus, semen est.
+
+  (Was wir abgeschrieben haben, wird nicht untergehen.
+  Was wir bewahrt haben, ist Samen.)
+
+  Letztes Wort: Semen. (Samen.)
+
+Originaltext von Johann van Staal -- die Einloesung des
+Epilogs von Fragor Noctis: "Sed meminimus. Et dum
+meminimus, redire potest." Erinnerung war das Versprechen;
+Abschreiben ist seine Einloesung. Historisch hat sie
+funktioniert: Was Cassiodor und Boethius sicherten, kam
+ueber die Kloester zurueck und wurde Renaissance.
+
+
